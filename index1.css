@@ -1,0 +1,16 @@
+html{
+
+}
+.pa1{
+    position: relative;
+    right: 50%;
+    background-color: antiquewhite;
+}
+
+.list{
+    position: relative;
+    right: -45%;
+}
+.list-button{
+    background-color: greenyellow;
+}
